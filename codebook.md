@@ -5,38 +5,50 @@ Code Book
 
 Subject	- field width: 2, a number corresponding to each participating person,  range: 1-30  
 
-Activity - field width: 18, activity types, range:1 WALKING, 2 WALKING_UPSTAIRS, 3 WALKING_DOWNSTAIRS, 4 SITTING, 5 STANDING, 6 LAYING   
+Activity - field width: 18, activity types, range: 1 WALKING, 2 WALKING_UPSTAIRS, 3 WALKING_DOWNSTAIRS, 4 SITTING, 5 STANDING, 6 LAYING   
 
-tBodyAccmeanX	- field width: 18, Time domain body acceleration mean along X, range: 1-30 
+tBodyAccmeanX - field width: 18, Time domain body acceleration mean along X, range: -1 - +1 
 
-tBodyAccmeanY	- field width: 18, Time domain body acceleration mean along Y, range: 1-30 
+tBodyAccmeanY - field width: 18, Time domain body acceleration mean along Y, range: -1 - +1  
 
-tBodyAccmeanZ	- field width: 18, Time domain body acceleration mean along Z, range: 1-30 
+tBodyAccmeanZ - field width: 18, Time domain body acceleration mean along Z, range: -1 - +1  
 
-tBodyAccstdX - field width: 18, Time domain body acceleration standard deviation along X, range: 1-30 
+tBodyAccstdX - field width: 18, Time domain body acceleration standard deviation along X, range: -1 - +1  
 
-tBodyAccstdY - field width: 18, Time domain body acceleration standard deviation along Y, range: 1-30 
+tBodyAccstdY - field width: 18, Time domain body acceleration standard deviation along Y, range: -1 - +1 
 	
-tBodyAccstdZ - field width: 18, Time domain body acceleration standard deviation along Z, range: 1-30 
+tBodyAccstdZ - field width: 18, Time domain body acceleration standard deviation along Z, range: -1 - +1 
 	
-tGravityAccmeanX - field width: 18, Time domain gravity acceleration mean along X, range: 1-30 
+tGravityAccmeanX - field width: 18, Time domain gravity acceleration mean along X, range: -1 - +1 
 		
-tGravityAccmeanY - field width: 18, Time domain gravity acceleration mean along Y, range: 1-30 
+tGravityAccmeanY - field width: 18, Time domain gravity acceleration mean along Y, range: -1 - +1  
 
-tGravityAccmeanZ - field width: 18, Time domain gravity acceleration mean along Z, range: 1-30 	
+tGravityAccmeanZ - field width: 18, Time domain gravity acceleration mean along Z, range: -1 - +1 	
 
-tGravityAccstdX	 
-tGravityAccstdY	 
-tGravityAccstdZ	 
-tBodyAccJerkmeanX	
-tBodyAccJerkmeanY	
-tBodyAccJerkmeanZ	
-tBodyAccJerkstdX	
-tBodyAccJerkstdY	
-tBodyAccJerkstdZ	
-tBodyGyromeanX	
-tBodyGyromeanY	
-tBodyGyromeanZ	
+tGravityAccstdX - field width: 18, Time domain gravity acceleration standard deviation along X, range: -1 - +1  	
+
+tGravityAccstdY - field width: 18, Time domain gravity acceleration standard deviation along Y, range: -1 - +1 	
+	 
+tGravityAccstdZ - field width: 18, Time domain gravity acceleration standard deviation along Z, range: -1 - +1 	
+	 
+tBodyAccJerkmeanX - field width: 18, Time domain body jerk mean along X, range: -1 - +1 	
+
+tBodyAccJerkmeanY - field width: 18, Time domain body jerk mean along Y, range: -1 - +1 	
+	
+tBodyAccJerkmeanZ - field width: 18, Time domain body jerk mean along Z, range: -1 - +1  	
+	
+tBodyAccJerkstdX - field width: 18, Time domain body jerk standard deviation along X, range: -1 - +1  	
+	
+tBodyAccJerkstdY - field width: 18, Time domain body jerk standard deviation along Y, range: -1 - +1 	
+		
+tBodyAccJerkstdZ - field width: 18, Time domain body jerk standard deviation along Z, range: -1 - +1  	
+	
+tBodyGyromeanX - field width: 18, Time domain gyroscope mean along X, range: -1 - +1  	
+	
+tBodyGyromeanY - field width: 18, Time domain gyroscope mean along Y, range: -1 - +1  	
+
+tBodyGyromeanZ - field width: 18, Time domain gyroscope mean along Z, range: -1 - +1 	
+	
 tBodyGyrostdX	
 tBodyGyrostdY	
 tBodyGyrostdZ	
