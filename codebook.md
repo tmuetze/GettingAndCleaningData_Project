@@ -45,8 +45,8 @@ In the last step the mean was taken over each variable by each subject and each 
 
 #Feature List
 
-Subject	- a number for the participating person  
-Activity - one of 6 activity types  
+Subject	- field width: 2, a number corresponding to each participating person,  range: 1-30  
+Activity - field width: 18, one of 6 activity types, range:1 WALKING, 2 WALKING_UPSTAIRS, 3 WALKING_DOWNSTAIRS, 4 SITTING, 5 STANDING, 6 LAYING   
 tBodyAccmeanX	 
 tBodyAccmeanY	
 tBodyAccmeanZ	
