@@ -1,5 +1,42 @@
 GettingAndCleaningData_Project
 ==============================
+
+#Data Source
+
+Original data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+Description of the original dataset: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+#Provided files
+
+'train/X_train.txt': Training set.
+
+'train/y_train.txt': Training labels.
+
+'test/X_test.txt': Test set.
+
+'test/y_test.txt': Test labels.
+
+'README.txt'
+
+'features_info.txt': Information about feature variables.
+
+'features.txt': Feature list.
+
+'activity_labels.txt': Activity labels and activity names.
+
+
+
+#Transformation tasks
+
+1. Merges the training and the test sets to create one data set.
+2. Extracts only the measurements on the mean and standard deviation for each measurement. 
+3. Uses descriptive activity names to name the activities in the data set
+4. Appropriately labels the data set with descriptive variable names. 
+5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
+
+
+#Approach for getting a tidy dataset
+
 The code for cleaning the motion data provided by UCI is split up in 5 steps. I changed the order of the original 5 steps and added the fourth step from the assignment before the second step, naminng the columns and thus giving variable names to the measurements.
 
 First, the raw files for the test and training set as well as the corresponding activity labels and subject IDs are read into R and subsequently collapsed into one dataset by using cbind and rbind. A tidy dataset contains all the data in one file or one complete dataset instead of distributing it across various ones.
