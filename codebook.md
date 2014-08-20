@@ -45,8 +45,9 @@ In the last step the mean was taken over each variable by each subject and each 
 
 #Feature List
 
-Subject	- a number for the participating person
-Activity - one of 6 activity types
+Subject	- a number for the participating person 
+
+Activity - one of 6 activity types 
 tBodyAccmeanX	
 tBodyAccmeanY	
 tBodyAccmeanZ	
