@@ -72,32 +72,55 @@ tBodyAccMagstd - field width: 18, Time domain body acceleration magnitude standa
 tGravityAccMagstd - field width: 18, Time domain gravity acceleration magnitude standard deviation, range: -1 - +1 	
 	
 tBodyAccJerkMagstd - field width: 18, Time domain body jerk magnitude standard deviation, range: -1 - +1 	
-		
-tBodyGyroMagstd- field width: 18, Time domain body jerk magnitude standard deviation, range: -1 - +1 	
+
+tBodyGyroMagstd - field width: 18, Time domain gyroscope magnitude standard deviation, range: -1 - +1 	
+
+tBodyGyroJerkMagstd - field width: 18, Time domain gyroscope jerk magnitude standard deviation, range: -1 - +1 	
 	 
-tBodyGyroJerkMagstd	 
-fBodyAccmeanX	 
-fBodyAccmeanY	 
-fBodyAccmeanZ	
-fBodyAccstdX	
-fBodyAccstdY	
-fBodyAccstdZ	
-fBodyAccJerkmeanX	
-fBodyAccJerkmeanY	
-fBodyAccJerkmeanZ	
-fBodyAccJerkstdX	
-fBodyAccJerkstdY	
-fBodyAccJerkstdZ	
-fBodyGyromeanX	
-fBodyGyromeanY	
-fBodyGyromeanZ	
-fBodyGyrostdX	
-fBodyGyrostdY	
-fBodyGyrostdZ	
-fBodyAccMagstd	
-fBodyBodyAccJerkMagstd	 
-fBodyBodyGyroMagstd  
-fBodyBodyGyroJerkMagstd  
+fBodyAccmeanX - field width: 18, Frequency domain body acceleration mean along X, range: -1 - +1 	
+	 
+fBodyAccmeanY - field width: 18, Frequency domain body acceleration mean along Y, range: -1 - +1 	
+	 	 
+fBodyAccmeanZ - field width: 18, Frequency domain body acceleration mean along Z, range: -1 - +1 	
+	 	
+fBodyAccstdX - field width: 18, Frequency domain body acceleration standard deviation along X, range: -1 - +1 	
+	
+fBodyAccstdY - field width: 18, Frequency domain body acceleration standard deviation along Y, range: -1 - +1 	
+	
+fBodyAccstdZ - field width: 18, Frequency domain body acceleration standard deviation along Z, range: -1 - +1 	
+	
+fBodyAccJerkmeanX - field width: 18, Frequency domain body jerk mean along X, range: -1 - +1 	
+		
+fBodyAccJerkmeanY - field width: 18, Frequency domain body jerk mean along Y, range: -1 - +1 	
+		
+fBodyAccJerkmeanZ - field width: 18, Frequency domain body jerk mean along Z, range: -1 - +1 	
+		
+fBodyAccJerkstdX - field width: 18, Frequency domain body jerk standard deviation along X, range: -1 - +1 	
+		
+fBodyAccJerkstdY - field width: 18, Frequency domain body jerk standard deviation along Y, range: -1 - +1 	
+		
+fBodyAccJerkstdZ - field width: 18, Frequency domain body jerk standard deviation along Z, range: -1 - +1 	
+		
+fBodyGyromeanX - field width: 18, Frequency domain gyroscope mean along X, range: -1 - +1 	
+		
+fBodyGyromeanY - field width: 18, Frequency domain gyroscope mean along Y, range: -1 - +1 	
+		
+fBodyGyromeanZ - field width: 18, Frequency domain gyroscope mean along Z, range: -1 - +1 	
+		
+fBodyGyrostdX - field width: 18, Frequency domain gyroscope standard deviation along X, range: -1 - +1 	
+		
+fBodyGyrostdY - field width: 18, Frequency domain gyroscope standard deviation along Y, range: -1 - +1 	
+		
+fBodyGyrostdZ - field width: 18, Frequency domain gyroscope standard deviation along Z, range: -1 - +1 	
+	
+fBodyAccMagstd - field width: 18, Frequency domain body acceleration magnitude standard deviation, range: -1 - +1 	
+	
+fBodyBodyAccJerkMagstd - field width: 18, Frequency domain body jerk magnitude standard deviation, range: -1 - +1 	
+	 
+fBodyBodyGyroMagstd - field width: 18, Frequency domain gyroscope magnitude standard deviation, range: -1 - +1 	
+ 
+fBodyBodyGyroJerkMagstd - field width: 18, Frequency domain gyroscope jerk magnitude standard deviation, range: -1 - +1 	
+  
 
 
 
