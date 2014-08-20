@@ -71,9 +71,9 @@ tBodyGyromeanZ
 tBodyGyrostdX	
 tBodyGyrostdY	
 tBodyGyrostdZ	
-tBodyGyroJerkmeanX	
-tBodyGyroJerkmeanY	
-tBodyGyroJerkmeanZ	
+tBodyGyroJerkmeanX 	
+tBodyGyroJerkmeanY 	
+tBodyGyroJerkmeanZ 	
 tBodyGyroJerkstdX	
 tBodyGyroJerkstdY	
 tBodyGyroJerkstdZ	
@@ -102,5 +102,5 @@ fBodyGyrostdY
 fBodyGyrostdZ	
 fBodyAccMagstd	
 fBodyBodyAccJerkMagstd	
-fBodyBodyGyroMagstd
-fBodyBodyGyroJerkMagstd
+fBodyBodyGyroMagstd 
+fBodyBodyGyroJerkMagstd 
