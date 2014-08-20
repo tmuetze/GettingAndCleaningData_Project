@@ -49,16 +49,26 @@ tBodyGyromeanY - field width: 18, Time domain gyroscope mean along Y, range: -1 
 
 tBodyGyromeanZ - field width: 18, Time domain gyroscope mean along Z, range: -1 - +1 	
 	
-tBodyGyrostdX	
-tBodyGyrostdY	
-tBodyGyrostdZ	
-tBodyGyroJerkmeanX 	
-tBodyGyroJerkmeanY 	
-tBodyGyroJerkmeanZ 	
-tBodyGyroJerkstdX	
-tBodyGyroJerkstdY	
-tBodyGyroJerkstdZ	
-tBodyAccMagstd	
+tBodyGyrostdX - field width: 18, Time domain gyroscope standard deviation along X, range: -1 - +1 	
+
+tBodyGyrostdY - field width: 18, Time domain gyroscope standard deviation along Y, range: -1 - +1 	
+
+tBodyGyrostdZ - field width: 18, Time domain gyroscope standard deviation along Z, range: -1 - +1 	
+	
+tBodyGyroJerkmeanX - field width: 18, Time domain gyroscope jerk mean along X, range: -1 - +1 	
+
+tBodyGyroJerkmeanY - field width: 18, Time domain gyroscope jerk mean along Y, range: -1 - +1 	
+ 	
+tBodyGyroJerkmeanZ - field width: 18, Time domain gyroscope jerk mean along Z, range: -1 - +1 	
+	 	 	
+tBodyGyroJerkstdX - field width: 18, Time domain gyroscope jerk standard deviation along X, range: -1 - +1 	
+	
+tBodyGyroJerkstdY - field width: 18, Time domain gyroscope jerk standard deviation along Y, range: -1 - +1 	
+
+tBodyGyroJerkstdZ - field width: 18, Time domain gyroscope jerk standard deviation along Z, range: -1 - +1 	
+
+tBodyAccMagstd - field width: 18, Time domain gyroscope jerk standard deviation along Z, range: -1 - +1 	
+	
 tGravityAccMagstd	
 tBodyAccJerkMagstd	
 tBodyGyroMagstd	 
