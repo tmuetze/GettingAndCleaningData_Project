@@ -1,6 +1,6 @@
 GettingAndCleaningData_Project
 ==============================
-The code for cleaning the motion data provided by UCI is split up in 5 steps. I changed the order of the original 5 steps and included the fourth step, naminng the columns and thus giving variable names to the measurements, in the second step.
+The code for cleaning the motion data provided by UCI is split up in 5 steps. I changed the order of the original 5 steps and added the fourth step from the assignment before the second step, naminng the columns and thus giving variable names to the measurements.
 
 First, the raw files for the test and training set as well as the corresponding activity labels and subject IDs are read into R and subsequently collapsed into one dataset by using cbind and rbind. A tidy dataset contains all the data in one file or one complete dataset instead of distributing it across various ones.
 
