@@ -80,10 +80,10 @@ tBodyGyroJerkstdZ
 tBodyAccMagstd	
 tGravityAccMagstd	
 tBodyAccJerkMagstd	
-tBodyGyroMagstd	
-tBodyGyroJerkMagstd	
-fBodyAccmeanX	
-fBodyAccmeanY	
+tBodyGyroMagstd	 
+tBodyGyroJerkMagstd	 
+fBodyAccmeanX	 
+fBodyAccmeanY	 
 fBodyAccmeanZ	
 fBodyAccstdX	
 fBodyAccstdY	
