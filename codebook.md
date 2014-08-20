@@ -46,7 +46,6 @@ In the last step the mean was taken over each variable by each subject and each 
 #Feature List
 
 Subject	- a number for the participating person 
-
 Activity - one of 6 activity types 
 tBodyAccmeanX	
 tBodyAccmeanY	
@@ -57,9 +56,9 @@ tBodyAccstdZ
 tGravityAccmeanX	
 tGravityAccmeanY	
 tGravityAccmeanZ	
-tGravityAccstdX	
-tGravityAccstdY	
-tGravityAccstdZ	
+tGravityAccstdX	 
+tGravityAccstdY	 
+tGravityAccstdZ	 
 tBodyAccJerkmeanX	
 tBodyAccJerkmeanY	
 tBodyAccJerkmeanZ	
@@ -102,6 +101,6 @@ fBodyGyrostdX
 fBodyGyrostdY	
 fBodyGyrostdZ	
 fBodyAccMagstd	
-fBodyBodyAccJerkMagstd	
-fBodyBodyGyroMagstd 
-fBodyBodyGyroJerkMagstd 
+fBodyBodyAccJerkMagstd	 
+fBodyBodyGyroMagstd  
+fBodyBodyGyroJerkMagstd  
