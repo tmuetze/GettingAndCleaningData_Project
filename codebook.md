@@ -67,11 +67,14 @@ tBodyGyroJerkstdY - field width: 18, Time domain gyroscope jerk standard deviati
 
 tBodyGyroJerkstdZ - field width: 18, Time domain gyroscope jerk standard deviation along Z, range: -1 - +1 	
 
-tBodyAccMagstd - field width: 18, Time domain gyroscope jerk standard deviation along Z, range: -1 - +1 	
+tBodyAccMagstd - field width: 18, Time domain body acceleration magnitude standard deviation, range: -1 - +1 	
 	
-tGravityAccMagstd	
-tBodyAccJerkMagstd	
-tBodyGyroMagstd	 
+tGravityAccMagstd - field width: 18, Time domain gravity acceleration magnitude standard deviation, range: -1 - +1 	
+	
+tBodyAccJerkMagstd - field width: 18, Time domain body jerk magnitude standard deviation, range: -1 - +1 	
+		
+tBodyGyroMagstd- field width: 18, Time domain body jerk magnitude standard deviation, range: -1 - +1 	
+	 
 tBodyGyroJerkMagstd	 
 fBodyAccmeanX	 
 fBodyAccmeanY	 
